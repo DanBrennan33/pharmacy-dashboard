@@ -1,0 +1,24 @@
+{
+  "name": "pharmacy-dashboard",
+  "version": "1.0.0",
+  "description": "This dashboard helps pharmacists keep track of prescription orders and transfer requests submitted by a patient.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanBrennan33/pharmacy-dashboard.git"
+  },
+  "author": "Dan Brennan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanBrennan33/pharmacy-dashboard/issues"
+  },
+  "homepage": "https://github.com/DanBrennan33/pharmacy-dashboard#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
