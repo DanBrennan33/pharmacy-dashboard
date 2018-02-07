@@ -1,20 +1,40 @@
 body {
   margin: 20px;
+  font-size: 100%;
 }
+
 /* Button Styles */
 button {
   text-transform: uppercase;
-}
-
-#refresh {
   width: 200px;
   height: 50px;
 }
 
-/* Row Styles */
+/* Row Content Styles */
 
 .row-content {
   margin-top: 20px;
   min-height: 200px;
   border-bottom: 1px ridge;
+
+}
+
+.order-content {
+  background-color: #87CEFA;
+  border: 1px solid #000000;
+  font-size: 1.5em;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.transfer-content {
+  background-color: #FF6666;
+  border: 1px solid #000000;
+  font-size: 1.5em;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.card-block {
+  background-color: #87CEFA;
 }
