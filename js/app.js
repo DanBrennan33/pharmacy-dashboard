@@ -121,10 +121,6 @@ function fetchAllData() {
   });
 };
 
-function stateListener(state) {
-
-}
-
 /**
   Anonymous function to call fetchAllData on DOM load or refresh.
 */
